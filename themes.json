@@ -1,0 +1,140 @@
+{
+  "words": {
+    "name": {
+      "kaz": "Аударма Әліппесі",
+      "rus": "Азбука Перевода",
+      "eng": "The ABC of Translation",
+      "tur": "Çevirinin Alfabesi"
+    },
+    "description": {
+      "kaz": [
+        "Бағдарлама арнайы аударма саласындағы мамандарды қарқынды апталық дайындықпен қамтамасыз етеді, бұл тыңдаушыларға осы қызметке қажетті практикалық дағдылар мен қабілеттерді қалыптастыруға бағытталған. Курстың ерекшелігі – практикалық сабақтардың жоғары үлесі (75%), сондай-ақ оқу процесіне фрилансер аудармашылардың тәжірибесін интеграциялау."
+      ],
+      "rus": [
+        "Программа предлагает интенсивную недельную подготовку профессионалов в области специального перевода, которая нацелена на формирование у слушателей практических умений и навыков, необходимых для этой деятельности. Курс отличает высокая доля практических занятий (75%), а также интегрирование в процесс обучения опыта переводческой деятельности фрилансер практиков."
+      ],
+      "eng": [
+        "The program offers an intensive week-long training for professionals in the field of specialized translation, aimed at developing practical skills and abilities necessary for this activity. The course is distinguished by a high proportion of practical sessions (75%) and the integration of freelance practitioners' translation experience into the training process."
+      ],
+      "tur": [
+        "Program, özel çeviri alanında profesyoneller için yoğun bir haftalık eğitim sunarak, katılımcılara bu faaliyet için gerekli pratik beceri ve yetenekleri kazandırmayı amaçlamaktadır. Kursun ayırt edici özelliği, yüksek oranda pratik dersler (%75) ve serbest çalışan çevirmenlerin deneyimlerinin eğitim sürecine entegrasyonudur."
+      ]
+    },
+    "photo": ""
+  },
+  "subtitles": {
+    "name": {
+      "kaz": "Титрлер дизайнын үйрену",
+      "rus": "Обучение дизайну титров",
+      "eng": "Title Design Training",
+      "tur": "Başlık Tasarımı Eğitim"
+    },
+    "description": {
+      "kaz": [
+        "Курс «Титр дизайнын оқыту» арнайы титр аудармасы саласындағы мамандарды қарқынды апталық даярлауды ұсынады, бұл тыңдаушыларға осы қызметке қажетті практикалық дағдылар мен қабілеттерді қалыптастыруға бағытталған. Титрлер – бейнеңізге кәсіби көрініс беретін пост-продакшн үдерісінің маңызды бөлігі. Олар кейіпкерлерді атау, мәтіндік хабарландырулар және басқа да көптеген мақсаттарда қолданылады. Курс титрлерді жасау және баптау үшін көптеген құралдарды ұсынады. Курста біз сізге Aegisub, Adobe Premiere Pro, Adobe After Effects және басқа бағдарламаларда титрлер мен субтитрлерді кезең-кезеңімен қалай жасау керектігін үйретеміз. Сондай-ақ манга мен ранобэ кітаптарын баспаға немесе сайттарға арналған форматтауды үйретеміз."
+      ],
+      "rus": [
+        "Курс «Обучение дизаину тиров» предлагает интенсивную недельную подготовку профессионалов в области специального титрного перевода, которая нацелена на формирование у слушателей практических умений и навыков, необходимых для этой деятельности. Титры – важная часть пост-продакшн процесса, которая добавляет профессиональный вид вашему видео. Они могут использоваться для подписи персонажей, текстовых объявлений и многого другого. Курс предоставляет множество инструментов для создания и настройки титров. В курсе мы научим Вас, как сделать титры и субтитры в Aegisub,Adobe Premiere Pro, Adobe After Effects и других программах шаг за шагом. И научим верстать манги и раномбэ книгу для издательство или для сайтов."
+      ],
+      "eng": [
+        "The course 'Title Design Training' offers an intensive week-long preparation for professionals in the field of specialized title translation, aimed at developing the practical skills and abilities necessary for this activity. Titles are an important part of the post-production process, adding a professional look to your video. They can be used for character names, text announcements, and much more. The course provides a variety of tools for creating and customizing titles. In the course, we will teach you how to make titles and subtitles step by step in Aegisub, Adobe Premiere Pro, Adobe After Effects, and other programs. We will also teach you how to format manga and light novels for publishing or for websites."
+      ],
+      "tur": [
+        "'Kredi Tasarım Eğitimi' kursu, özel kredi çevirisi alanında profesyoneller için gerekli pratik beceri ve yetenekleri geliştirmeye yönelik yoğun bir haftalık hazırlık sunar. Kredi, videonuza profesyonel bir görünüm kazandıran post-prodüksiyon sürecinin önemli bir parçasıdır. Karakter isimleri, metin duyuruları ve daha birçok şey için kullanılabilirler. Kurs, kredi oluşturma ve özelleştirme için çeşitli araçlar sunar. Kursta, Aegisub, Adobe Premiere Pro, Adobe After Effects ve diğer programlarda adım adım kredi ve altyazı yapmayı öğreteceğiz. Ayrıca manga ve hafif romanları yayıncılık veya web siteleri için nasıl düzenleyeceğinizi öğreteceğiz."
+      ]
+    },
+    "photo": ""
+  },
+  "podcast": {
+    "name": {
+      "kaz": "Подкасттарға үйрету",
+      "rus": "Обучение Подкастам",
+      "eng": "Podcast Training",
+      "tur": "Podcast Eğitimi"
+    },
+    "description": {
+      "kaz": [
+        "Курс «Подкасттарды оқыту» интернет бағдарламаларын, танымал медиа сөйлеулер мен подкасттарды жасауды және жүргізуді үйретеді. Дауыстық техника мен микрофон алдында сөйлеу шеберлігін дамыту. Қонақтармен қарым-қатынас – сұхбат жүргізу ерекшеліктері, қонақтармен жұмыс істеудің нәзіктіктері. Әр түрлі тақырыптар бойынша авторлық және құрастырмалы бағдарламаларды жазу әдістемесі."
+      ],
+      "rus": [
+        "Курс обучение падкастам научит создавать и вести интернет-программы, популярные медиавыступления и подкасты. Выработка голосовой техники и мастерства выступления перед микрофоном. Общение с гостями — особенности ведения интервью, тонкости работы с гостями. Методология написания авторских и составительных программ по разным темам."
+      ],
+      "eng": [
+        "The course 'Podcast Training' teaches how to create and run online shows, popular media appearances, and podcasts. Developing vocal techniques and microphone performance skills. Communication with guests – the nuances of conducting interviews and working with guests. Methodology for writing original and compiled programs on various topics."
+      ],
+      "tur": [
+        "'Podcast Eğitimi' kursu, çevrimiçi programlar, popüler medya konuşmaları ve podcastler oluşturmayı ve yönetmeyi öğretir. Ses tekniği ve mikrofon önünde konuşma becerilerini geliştirme. Konuklarla iletişim – röportaj yapma ve konuklarla çalışma incelikleri. Çeşitli konular üzerine özgün ve derleme programlar yazma metodolojisi."
+      ]
+    },
+    "photo": ""
+  },
+  "audio": {
+    "name": {
+      "kaz": "Дыбыстау шеберлігін үйрену",
+      "rus": "Обучение мастерству озвучки",
+      "eng": "Voice Acting Training",
+      "tur": "Seslendirme Sanatı Eğitimi"
+    },
+    "description": {
+      "kaz": [
+        "Курс дубляж актерінің мамандығын меңгеруге мүмкіндік береді. Дубляж курсы тыңдаушыларға өз үй студиясын ұйымдастыруға көмектеседі. Бұл курстар мамандықты өз бетінше меңгеріп жүргендерге арналған. Курс интернетте, жарнамада және т.б. салаларда жұмыс істеуді қалайтындар үшін пайдалы. «Авторлық бағдарламаны қалай жасауға болады? Идеядан бастап іске асыруға дейін» үйреніңіз."
+      ],
+      "rus": [
+        "В Курсе на которых можно освоить профессию актёра-переводчика дубляжа. Курс дубляжа помогут слушателям организовать свою домашнюю студию звукозаписи. Эти курсы подойдут для тех, кто осваивает профессию самостоятельно дальше. Курс полезен тем, кто хочет работать не только на в интернете, в рекламе и.т.д. Научитесь 'Как создать авторскую программу? От замысла – до воплощения'"
+      ],
+      "eng": [
+        "The course allows you to master the profession of a dubbing actor. The dubbing course helps listeners organize their home recording studio. These courses are suitable for those who are learning the profession independently. The course is useful for those who want to work not only online but also in advertising, etc. Learn 'How to create an original program? From concept to implementation.'"
+      ],
+      "tur": [
+        "Kurs, dublaj oyuncusu mesleğini öğrenmenize olanak tanır. Dublaj kursu, katılımcılara evde kendi kayıt stüdyolarını organize etmelerine yardımcı olur. Bu kurslar, mesleği bağımsız olarak öğrenenler için uygundur. Kurs, sadece internette değil, reklamda ve diğer alanlarda da çalışmak isteyenler için faydalıdır. 'Özgün bir program nasıl oluşturulur? Fikirden uygulamaya kadar' öğrenin."
+      ]
+    },
+    "photo": ""
+  },
+  "images": {
+    "name": {
+      "rus": "Перевод Манги и Сказок",
+      "kaz": "Манга және ертегілерді аудару",
+      "eng": "Manga and Fairy Tales Translation",
+      "tur": "Manga ve Masalları Çeviri"
+    },
+    "description": {
+      "kaz": [
+        "Курс «Манга мен ертегілерді аудару» аударманың негіздерін үйретеді. Көптеген адамдар әдебиетпен түпнұсқада танысуды жөн көреді. Бірақ әлемдегі барлық тілдерді меңгеру мүмкін емес. Тіпті қазір, компьютерлік технологиялар мен машиналық аударманың қарқынды дамыған дәуірінде, аудармашылардың көмегінсіз болмайды. Курста біз аудармашылардың қалай жұмыс істейтінін, олар қандай ережелер мен заңдарға сүйенетінін, ауызша аударма мен жазбаша аударманың айырмашылығы неде екенін, ғылыми мақаланы аудару мен көркем әдебиетті, өлеңдерді, манга немесе аниме аударуды қалай ерекшеленетінін айтамыз."
+      ],
+      "rus": [
+        "Курс перевод манги и сказок научит азам перевода. Многие говорят, что предпочитают знакомиться с литературой в оригинале. Но овладеть всеми языками мира невозможно. И даже сейчас, в эпоху быстрого развития компьютерных технологий и машинного перевода, без помощи переводчиков-людей не обойтись. Курсе мы расскажим о том, как работают переводчики, какими правилами и законами они руководствуются, чем устный перевод отличается от письменного, а перевод научной статьи – от перевода художественной книги, стихотворения, манги или аниме."
+      ],
+      "eng": [
+        "The course 'Translation of Manga and Tales' teaches the basics of translation. Many people prefer to read literature in the original language. However, mastering all the languages of the world is impossible. Even now, in the era of rapid development of computer technology and machine translation, the help of human translators is indispensable. In the course, we will explain how translators work, what rules and laws they follow, how oral translation differs from written translation, and how translating a scientific article differs from translating a fiction book, poem, manga, or anime."
+      ],
+      "tur": [
+        "'Manga ve Masal Çevirisi' kursu, çeviri temellerini öğretir. Birçok kişi edebiyatla orijinal dilinde tanışmayı tercih ediyor. Ancak, dünyanın tüm dillerini öğrenmek mümkün değildir. Ve hatta şimdi, bilgisayar teknolojileri ve makine çevirisinin hızla geliştiği bir dönemde, insan çevirmenlerin yardımı olmadan olmaz. Kursta, çevirmenlerin nasıl çalıştığını, hangi kurallara ve yasalara göre hareket ettiklerini, sözlü çeviri ile yazılı çeviri arasındaki farkları, bilimsel bir makale çevirisinin edebi bir kitap, şiir, manga veya anime çevirisinden nasıl farklı olduğunu anlatacağız."
+      ]
+    },
+    "photo": ""
+  },
+  "anime": {
+    "name": {
+      "rus": "Обучение Дублированию Аниме",
+      "kaz": "Анимені дубляждауға үйрету",
+      "eng": "Anime Dubbing Training",
+      "tur": "Anime Dublaj Eğitimi"
+    },
+    "description": {
+      "kaz": [
+        "Біздің «Аниме дубляжы» курсымызда біз аниме мен манга әлемдерімен, олардың тарихымен және теориясымен танысамыз. Біз манга мен анимені, сондай-ақ ранобэны қалай аударуға болатынын айтамыз. Манга мен аниме үшін оқиғаларды қалай жазуға, барлық аниме ережелері бойынша кейіпкерлерді жасауға және кейіпкерімізді анимация көмегімен қалай жандандыруға үйренеміз. • манга мен аниме дәстүрлеріне сәйкес оқиғаларды құру және сценарийлер жазу • өз кейіпкерлеріңізді ойлап тауып, оларды анимация көмегімен жандандыруды үйрену"
+      ],
+      "rus": [
+        "В нашем курсе 'Дублирование Аниме' мы будем знакомиться с мирами аниме и манги, их историей и теорией. Мы расскажем как переводить манги и аниме а также раномбэ. Как писать истории для манги и аниме, научимся создавать героев по всем анимешным правилам и оживим нашего героя при помощи мультипликации. • создавать истории и писать сценарии в соответсвии с традициями манги и аниме • придумывать собственных героев и учиться оживлять их при помощи анимации"
+      ],
+      "eng": [
+        "In our course 'Anime Dubbing', we will explore the worlds of anime and manga, their history, and their theory. We will explain how to translate manga, anime, and light novels. We will learn how to write stories for manga and anime, create characters according to all anime rules, and bring our characters to life through animation. • create stories and write scripts in accordance with manga and anime traditions • invent your own characters and learn how to bring them to life using animation"
+      ],
+      "tur": [
+        "'Anime Dublajı' kursumuzda anime ve manga dünyalarını, tarihlerini ve teorilerini inceleyeceğiz. Mangaları, animeleri ve hafif romanları nasıl çevireceğimizi anlatacağız. Manga ve anime için hikayeler yazmayı, tüm anime kurallarına uygun karakterler oluşturmayı ve karakterlerimizi animasyon yardımıyla canlandırmayı öğreneceğiz. • manga ve anime geleneklerine uygun olarak hikayeler oluşturmak ve senaryolar yazmak • kendi karakterlerinizi yaratmak ve onları animasyon yardımıyla canlandırmayı öğrenmek"
+      ]
+    },
+    "photo": ""
+  }
+}
